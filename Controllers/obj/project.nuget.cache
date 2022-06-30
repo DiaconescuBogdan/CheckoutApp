@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTfy5B3fPt7lnxaIEoPTmbKD7wQYx6J1udlBcTDIvQEoZ3qya6l6C+OcIfjznC7KIeC131gC6XMK1UEqZmrfuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bdiac\\source\\repos\\CheckoutApp\\Controllers\\Controllers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bdiac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

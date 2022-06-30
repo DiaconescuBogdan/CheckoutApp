@@ -1,0 +1,9 @@
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\bdiac\source\repos\CheckoutApp\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
