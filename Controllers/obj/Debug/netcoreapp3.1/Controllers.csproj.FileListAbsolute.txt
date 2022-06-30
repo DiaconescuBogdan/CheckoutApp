@@ -1,9 +1,0 @@
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\bin\Debug\netcoreapp3.1\Controllers.deps.json
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\bin\Debug\netcoreapp3.1\Controllers.dll
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\bin\Debug\netcoreapp3.1\Controllers.pdb
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\obj\Debug\netcoreapp3.1\Controllers.csprojAssemblyReference.cache
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\obj\Debug\netcoreapp3.1\Controllers.AssemblyInfoInputs.cache
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\obj\Debug\netcoreapp3.1\Controllers.AssemblyInfo.cs
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\obj\Debug\netcoreapp3.1\Controllers.csproj.CoreCompileInputs.cache
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\obj\Debug\netcoreapp3.1\Controllers.dll
-C:\Users\bdiac\source\repos\CheckoutApp\Controllers\obj\Debug\netcoreapp3.1\Controllers.pdb
